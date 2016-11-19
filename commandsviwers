@@ -1,33 +1,33 @@
 Commands for my viwers on twitch.tv (fredokapie)
 
-!points
-!uptime
-!top5
-!top10
-!tophours
-!rip
-!hug
-!sorte
-!tapa
-!firefire
-!gj
-!tremida
-!retarda
-!facebook
-!twitter
-!configpc
-!comer
-!songrequest
-!songhelp
-!steam
-!donate
-!mod
-!settings
-!slap
-!luck
-!scream
-!shrug
-!age
-!best
-!commands
-!useroptions
+!points          (user current points)
+!uptime          (This stream is online for: $uptime)
+!top5            (Top $currencyname: $toppoints(5))
+!top10           (Top $currencyname: $toppoints(10))
+!tophours        (Top Viewers: $tophours(5))
+!rip             ("I not died like a newbie, I allowed him to kill me" - Fredoka)
+!hug             (ʕっ•ᴥ•ʔっ ʕ•ᴥ•ʔ)
+!sorte           ($user se sentindo sortudo!)
+!tapa            (O veio já apanhou $count vezes hoje! E você já bateu quantas vezes nesse véio retarda!?)
+!firefire        (Esse véio ta desconsiderando nêgo! O nego é cabeça de gelo! FIRE FIRE)
+!gj              (´▽｀)=b
+!tremida         ( ͡o ͜ʖ ͡o)
+!retarda         ( ͡° ͜ʖ ͡ °)
+!facebook        (https://www.facebook.com/akoderf/)
+!twitter         (https://twitter.com/akoderf)
+!configpc        (Intel i7 6700K 4.0Ghz 6ª Geração / Galax GeForce GTX 1070 EXOC 8GB / 8GB DDR4 / SSD 120GB / HD 1TB / Cooler Pcyes Zero KZ1 / Fonte 600w / Gab Aerocool Aero 500 White)
+!comer           (Esse véio da doença merece ser estuprado $count vezes!)
+!songrequest     (Para pedir song request, pegue o link do youtube você vai ver um "v=" copia o código após esse "v=" e digita !songrequest "código"))
+!songhelp        (Para pedir song request, pegue o link do youtube você vai ver um "v=" copia o código após esse "v=" e digita !songrequest "código"))
+!steam           (http://steamcommunity.com/profiles/76561197961270172/)
+!donate          (Donate link! https://twitch.streamlabs.com/fredokapie)
+!mod             ($user now a mod of this channel Kappa)
+!settings        (400 dpi - 0.14 everything - 0.35 car sens)
+!slap            (This old guy have been slaped $count times today!)
+!luck            ($user is feeling luck!)          
+!scream          ($user says Fredoka has screamed like a baaabyy $count times!)
+!shrug           ¯\_(ツ)_/¯
+!age             ("I'm a god, i have all ages, i never get old, im just in time" -Fredoka)
+!best            (I know i'm the best. You dont need to tell me that.)
+!commands        (Commands for you guys! https://github.com/akoderf/vieweroption/blob/master/commandsviwers)
+!useroptions     (My useroptions if you want! https://github.com/akoderf/vieweroption/blob/master/useroptions)
